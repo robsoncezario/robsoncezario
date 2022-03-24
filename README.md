@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋🏻 call me Rob</h1>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
 Robson Cezario da Silva, a professional and talented Software Engineer specialized in Full-stack and blockchain development, currently based in Brazil. I am passionate about leveraging my diverse background to decipher challenging problems and create delightful experiences.
 
@@ -37,5 +37,3 @@ All of my projects are available at my **[portfolio](https://robsoncezario.com)*
 <a href = "https://www.linkedin.com/in/robsoncezario/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
-
-![Snake animation](https://github.com/robsoncezario/robsoncezario/blob/output/github-contribution-grid-snake.svg)
