@@ -20,7 +20,7 @@ All of my projects are available at my **[portfolio](https://robsoncezario.com)*
     </a>
 </p>
 
-## 📊 My Github Stats
+## My Github Stats
 
   <br/>
     <a href="https://github.com/robsoncezario/github-readme-stats"><img alt="Robson Cezario Github Stats" src="https://github-readme-stats.vercel.app/api?username=robsoncezario&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -35,6 +35,4 @@ All of my projects are available at my **[portfolio](https://robsoncezario.com)*
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/robsoncezario/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-![Snake animation](https://github.com/robsoncezario/robsoncezario/blob/output/github-contribution-grid-snake.svg)
 </p>
